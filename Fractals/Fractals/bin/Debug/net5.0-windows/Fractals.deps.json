@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fractals/1.0.0": {
+        "dependencies": {
+          "WPF.ColorPicker": "5.0.0.1"
+        },
+        "runtime": {
+          "Fractals.dll": {}
+        }
+      },
+      "WPF.ColorPicker/5.0.0.1": {
+        "dependencies": {
+          "WriteableBitmapEx": "1.6.8"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/WPF.ColorPicker.dll": {
+            "assemblyVersion": "5.0.0.1",
+            "fileVersion": "5.0.0.1"
+          }
+        }
+      },
+      "WriteableBitmapEx/1.6.8": {
+        "runtime": {
+          "lib/netcoreapp3.0/WriteableBitmapEx.Wpf.dll": {
+            "assemblyVersion": "1.6.8.0",
+            "fileVersion": "1.6.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fractals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPF.ColorPicker/5.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w2LYIXNYhQ/Q4X1J7k4TR1MPk6Q22w/BaXsM3hjgmuYDk8Wt1QCVQfvJxU8tHXOiWXlmJbYYPXkdrZJhp1h+HA==",
+      "path": "wpf.colorpicker/5.0.0.1",
+      "hashPath": "wpf.colorpicker.5.0.0.1.nupkg.sha512"
+    },
+    "WriteableBitmapEx/1.6.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DmMeRt3Zr+xu21U9uY9baniMlX86nSKRBoUvFXZilsk553Him37OX04nE2ctJtPHONbVD/iB1dsIfQx+r1LH0Q==",
+      "path": "writeablebitmapex/1.6.8",
+      "hashPath": "writeablebitmapex.1.6.8.nupkg.sha512"
+    }
+  }
+}

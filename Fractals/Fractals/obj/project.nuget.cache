@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTC/fjhnpS/aljibJ37J7k0GFFUYZV9sD0vQdYF+CGfgFL2Ua1DC6WppQRrviKGJIzNV/3+hPJddvlfhDOzf9w==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Programs\\C#\\Fractals\\Fractals\\Fractals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anast\\.nuget\\packages\\wpf.colorpicker\\5.0.0.1\\wpf.colorpicker.5.0.0.1.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\writeablebitmapex\\1.6.8\\writeablebitmapex.1.6.8.nupkg.sha512"
+  ],
+  "logs": []
+}
