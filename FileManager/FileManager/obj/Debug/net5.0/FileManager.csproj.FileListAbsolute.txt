@@ -1,0 +1,32 @@
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.exe
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.deps.json
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.dll
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.pdb
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.dll
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.pdb
+D:\Документы\Programs\visual studio C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
+D:\Documents\Programs\C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.exe
+D:\Documents\Programs\C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.deps.json
+D:\Documents\Programs\C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+D:\Documents\Programs\C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+D:\Documents\Programs\C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.dll
+D:\Documents\Programs\C#\FileManager\FileManager\bin\Debug\net5.0\FileManager.pdb
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.dll
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\refint\FileManager.dll
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.pdb
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
+D:\Documents\Programs\C#\FileManager\FileManager\obj\Debug\net5.0\ref\FileManager.dll
