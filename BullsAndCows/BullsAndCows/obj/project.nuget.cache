@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwbWmPkUItrOoZiRuiU4rXvBz+KDgkOm3FGiHTgevU/rCm2TSvh0Lv95YnI6StMBlC+WvJGVhSIC5b8j1mXnng==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Programs\\C#\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\anast\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
